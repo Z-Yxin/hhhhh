@@ -8,11 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+Come [here](./content)
+
 ```markdown
 Syntax highlighted code block
 
 # Header 1
-Come [here](./content)
+
 
 ## Header 2
 ### Header 3
